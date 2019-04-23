@@ -1,0 +1,10 @@
+NEW REG [TEST]
+SET [TEST] $Hello,_World!
+SAY [TEST]
+
+NEW REG [INP]
+
+WARN $INPUT_VAR
+
+SET [INP] INPUT
+SAY [INP]
